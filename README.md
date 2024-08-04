@@ -6,10 +6,10 @@ This program is a simple implementation of the classic Snake game using Java Swi
 
 # Features
 
-Randomly generated apples: Apples appear at random locations on the grid, avoiding the snake's body.
-Continuous movement: The snake moves in one of four directions (up, down, left, right) and wraps around the edges of the screen.
-Collision detection: The game ends if the snake's head collides with its body.
-Score display: The number of apples eaten is displayed on the screen.
+-Randomly generated apples: Apples appear at random locations on the grid, avoiding the snake's body.
+-Continuous movement: The snake moves in one of four directions (up, down, left, right) and wraps around the edges of the screen.
+-Collision detection: The game ends if the snake's head collides with its body.
+-Score display: The number of apples eaten is displayed on the screen.
 
 
 
